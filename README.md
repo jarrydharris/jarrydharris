@@ -12,4 +12,4 @@ You can click the Preview link to take a look at your changes.
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [my-url]: http://www.jarrydharris.org
-[my-shield]: https://img.shields.io/website?down_color=red&down_message=offline&label=portfolio&up_color=green&up_message=online&url=http%3A%2F%2Fjarrydharris.org%2F
+[my-shield]: https://img.shields.io/website?down_color=red&down_message=offline&label=portfolio&style=for-the-badge&up_color=green&up_message=online&url=http%3A%2F%2Fjarrydharris.org%2F
