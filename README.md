@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jarrydharris
-- Check out my portfolio at [my-shield][my-url]
+- Check out my portfolio at ![my-shield][my-url]
 - 📫 How to reach me [![LinkedIn][linkedin-shield]][linkedin-url]
 
 <!---
