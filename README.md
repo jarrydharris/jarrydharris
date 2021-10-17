@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jarrydharris
-- 🌱 Currently working on an AutoML [chatbot][current-project] that impersonates your favorite twitter user by training itself new tweets.
+- 🌱 Currently working on an AutoML [chatbot][current-project] that impersonates your favorite twitter user by training on their twitter feed.
 - 📁 Check out my [![my-shield]][my-url]
 - 📫 Reach me on [![LinkedIn][linkedin-shield]][linkedin-url]
 
