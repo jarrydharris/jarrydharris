@@ -1,4 +1,6 @@
-### JARRYD HARRIS
+<picture>
+  <img src="/github-metrics.svg" alt="Metrics">
+</picture>
 
 I like solving problems with data.
 
