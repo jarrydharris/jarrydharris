@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @jarrydharris
-- 🌱 Currently working on my [boilerplate template][current-project] so I can deploy prototypes faster with IaC and CICD. 
-- 📁 Check out my [![my-shield]][my-url]
-- 📫 Reach me on [![LinkedIn][linkedin-shield]][linkedin-url]
+### JARRYD HARRIS
+
+I like solving problems with data.
+
+Past experience in: AI/ML, dataviz, frontend, backend, devops/mlops.
 
 <!---
 jarrydharris/jarrydharris is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
